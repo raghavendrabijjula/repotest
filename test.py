@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print test1
+print "This is a test"
